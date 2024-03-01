@@ -8,11 +8,13 @@ To prepare for the course and ensure you have the necessary tools and knowledge,
 
 - Follow the instructions to install Git on your system: [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-### 2. Create a GitHub Account
+### 2. Create a GitHub Account and add SSH key
 
 - Sign up for an account on [GitHub](https://github.com/) if you do not already have one.
+- Create private/public ssh keys: [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=mac) (at the top of the page select OS you are using)
+- Add your public SSH key to your github account: [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui&platform=mac) (at the top of the page select OS you are using)
 
-### 3. Integrate GitHub with PyCharm
+### 3. (Optional) Integrate GitHub with PyCharm
 
 - Configure PyCharm to connect to your GitHub account. Detailed steps can be found here: [PyCharm GitHub Integration](https://www.jetbrains.com/help/pycharm/github.html).
 

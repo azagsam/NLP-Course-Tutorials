@@ -15,9 +15,8 @@
 - Goal: Learn how to collaborate with colleagues using a remote code repository 
 
 ### Data Wrangling
-- Check out our work plan in [data-wrangling.md](additional_materials/tutorials/data-wrangling.md)
 - Together we will work through the notebook [data-wrangling-solutions.ipynb](additional_materials/notebooks/data-wrangling-solutions.ipynb)
-- You will be working through exercise 2 alone
+- Solve notebook [data-wrangling-exercise.ipynb](additional_materials/notebooks/data-wrangling-exercise.ipynb)
 - Goal: Learn to process and manipulate data
 
 ### Basics of Machine Learning (TODO)

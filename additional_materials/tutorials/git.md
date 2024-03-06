@@ -48,9 +48,10 @@ In this exercise, you'll practice working with local repositories:
 
 This exercise focuses on collaborating using remote repositories:
 
-1. **Share Your Project on GitHub**:
-    - Upload your local project to GitHub, making it a remote repository.
-
+1. **Create Your Repo on GitHub**:
+    - Create it from scratch on Github.
+    - To upload an existing local repo, you need to install [Github CLI](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-with-github-cli)
+   
 2. **Collaborate on a Shared Project**:
     - Clone the following repository to start collaborating: [Git Introduction Repository](https://github.com/azagsam/git-intro).
 

@@ -4,3 +4,5 @@ __pycache__/
 .idea/
 .venv/
 /additional_materials/notebooks/cckresV1_0-text/
+/additional_materials/notebooks/wsc-txt
+/additional_materials/notebooks/SI-NLI

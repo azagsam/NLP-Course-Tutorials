@@ -19,4 +19,7 @@
 - Solve notebook [data-wrangling-exercise.ipynb](additional_materials/notebooks/data-wrangling-exercise.ipynb)
 - Goal: Learn to process and manipulate data
 
-### Basics of Machine Learning (TODO)
+### Basics of Machine Learning 
+- Together we will work through the notebook [machine-learning-basics.ipynb](additional_materials/notebooks/machine-learning-basics.ipynb)
+- Solve the exercise at the end of the notebook
+- Goal: Get familiar with classification, regression, and clustering

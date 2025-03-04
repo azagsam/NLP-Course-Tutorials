@@ -23,3 +23,12 @@
 - Together we will work through the notebook [machine-learning-basics.ipynb](additional_materials/notebooks/machine-learning-basics.ipynb)
 - Solve the exercise at the end of the notebook
 - Goal: Get familiar with classification, regression, and clustering
+
+### How to run classla
+CLASSLA 2.2 needs an old version of numpy! Therefore, to run this notebook, please use python 3.10. To run this notebook, please use e.g. the following commands:
+
+```
+conda create -n nlp-classla python=3.10
+pip install classla
+```
+
